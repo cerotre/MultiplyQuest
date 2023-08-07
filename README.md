@@ -1,4 +1,6 @@
-# ¡Bienvenidos a MultiplyQuest: Tu Aventura Matemágica de las Multiplicaciones! 🌟
+# MultiplyQuest
+
+## ¡Bienvenidos a MultiplyQuest: Tu Aventura Matemágica de las Multiplicaciones! 🌟
 
 ¡Hola, jóvenes matemáticos y matemáticas en ciernes! ¡Es hora de unirte a la emocionante búsqueda de multiplicaciones en MultiplyQuest! ¿Estás listo para explorar el fascinante mundo de las **tablas de multiplicar del 1 al 10** mientras te diviertes y ganas puntos?
 
